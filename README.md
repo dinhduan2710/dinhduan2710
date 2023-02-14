@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dinh Duan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://drive.google.com/file/d/1gHXC21LJKR8ijIcn2eDXUW9B_KI4nh8b/view" width="230">
 <p><em>Software Enginner at <a href="https://www.hactech.edu.vn/">HANOI VOCATIONAL COLLEGE OF TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BackEnd Developer at <a href="https://bavaan.com/">Bavaan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -11,8 +11,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const Duan = {
+  pronouns: "He" | "His",
   code: [Javascript, HTML, CSS, Python, PHP, Laravel, Magento, Django, Dagster, NodeJs],
   tools: [Docker, Linux, Github],
   architecture: ["design system pattern"],
@@ -22,7 +22,6 @@ const thai = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
 
 
 
