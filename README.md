@@ -1,5 +1,4 @@
 <h2> Hi, I'm Dinh Duan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://drive.google.com/file/d/1gHXC21LJKR8ijIcn2eDXUW9B_KI4nh8b/view" width="230">
 <p><em>Software Enginner at <a href="https://www.hactech.edu.vn/">HANOI VOCATIONAL COLLEGE OF TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BackEnd Developer at <a href="https://bavaan.com/">Bavaan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -24,7 +23,7 @@ const Duan = {
 
 
 
-
+```
 
                              \\\\\\\
                             \\\\\\\\\\\\
