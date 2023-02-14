@@ -12,7 +12,7 @@
 ```javascript
 const Duan = {
   pronouns: "He" | "His",
-  code: [Javascript, HTML, CSS, Python, PHP, Laravel, Magento, Django, Dagster, NodeJs],
+  code: [Javascript, HTML, CSS, Python, PHP, Laravel, Magento, Django, Dagster, NodeJs, Wordpress],
   tools: [Docker, Linux, Github],
   architecture: ["design system pattern"],
 }
