@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dinh Duan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="https://www.hactech.edu.vn/">HANOI VOCATIONAL COLLEGE OF TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BackEnd Developer at <a href="https://bavaan.com/">OKHUB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.hactech.edu.vn/">HANOI VOCATIONAL COLLEGE OF TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BackEnd Developer at <a href="[https://bavaan.com/](https://okhub.vn/)">OKHUB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Nguyen Dinh Duan](https://img.shields.io/twitter/follow/dinh31958424?style=social)](https://twitter.com/dinh31958424)
