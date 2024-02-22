@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dinh Duan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hello, I'm NGUYEN DINH DUAN! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner at <a href="https://www.hactech.edu.vn/">HANOI VOCATIONAL COLLEGE OF TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BackEnd Developer at <a href="[https://okhub.vn/](https://okhub.vn/)">OKHUB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -12,7 +12,7 @@
 ```javascript
 const Duan = {
   pronouns: "He" | "His",
-  code: [Javascript, HTML, CSS, Python, PHP, Laravel, Magento, NodeJs, Wordpress],
+  code: [Javascript, Jquery, Python, PHP, Laravel, Magento, NodeJs, Wordpress],
   tools: [Docker, Linux, Github],
   architecture: ["design system pattern"],
 }
